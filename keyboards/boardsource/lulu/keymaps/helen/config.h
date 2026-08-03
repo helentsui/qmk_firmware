@@ -1,3 +1,5 @@
 #pragma once
 
+#define OLED_TIMEOUT 60000
 #define SPLIT_USB_TIMEOUT 10000
+#define SPLIT_WPM_ENABLE
